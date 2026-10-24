@@ -1,0 +1,42 @@
+## Visual Studio 2015/2017/2019/2022/2026
+## Carpetas de salida de compilación (Binarios y ejecutables)
+[Bb]in/
+[Oo]bj/
+[Log]/
+[Ll]og/
+
+## Archivos y carpetas ocultas de configuración de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Archivos específicos de compilación de C# y .NET
+*.pdb
+*.exe
+*.dll
+*.ide
+*.ncb
+
+## Archivos temporales de compilación y roslyn
+*.cache
+*.ilk
+*.lk
+*.exp
+
+## Herramientas de diagnóstico de Visual Studio
+*.etwlogs
+*.vshost.exe
+*.vshost.exe.config
+*.vshost.exe.manifest
+
+## Carpetas de paquetes de dependencias (NuGet)
+packages/
+*.nuget.props
+*.nuget.targets
+
+## Respaldos y archivos temporales generales
+*.bak
+*~
+*.tmp
