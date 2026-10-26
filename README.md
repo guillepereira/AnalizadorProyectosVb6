@@ -14,10 +14,10 @@ El proyecto está diseñado para cumplir un flujo estratégico dividido en dos g
 ---
 
 ## 📊 Características del Proyecto VB6 a Analizar (Línea Base)
-La aplicación está preparada para procesar proyectos complejos de VB6 con volumetrías exigentes, tomando como base inicial un sistema con:
+La aplicación está preparada para procesar proyectos complejos de VB6 con volumetrías exigentes, tomando como base inicial un sistema con las siguientes características y contenidos:
 * **Tipo:** Exe Camaleón / Estándar
-* **Componentes:** 148 Formularios (`.frm`), 42 Módulos (`.bas`), 14 Clases de Usuario (`.cls`) y 6 Controles de Usuario (`.ctl`).
-* **Dependencias:** 7 Referencias lógicas y 9 Objetos/Controles ActiveX (`.ocx`).
+* **Componentes:** Formularios (`.frm`), Módulos (`.bas`), Clases de Usuario (`.cls`) y Controles de Usuario (`.ctl`).
+* **Dependencias:** Referencias lógicas y Objetos/Controles ActiveX (`.ocx`).
 * **Complejidad:** Declaraciones mixtas de ámbitos (Global, Public, Private, Dim) a nivel de módulo, locales y tipos definidos por el usuario (`Type`).
 
 ---
